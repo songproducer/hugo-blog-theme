@@ -3,6 +3,7 @@ widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
 widget_id: my-widget-123
 headless: true
 weight: 10
+title: Helllllllo
 active: true
 design:
   columns: "2"
