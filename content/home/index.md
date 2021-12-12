@@ -1,7 +1,9 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
+widget_id: Money Every 3 Days
 headless: true
+weight: 10
+title: Hi!
+active: true
 ---
