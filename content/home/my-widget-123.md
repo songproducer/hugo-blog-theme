@@ -1,5 +1,5 @@
 ---
-widget: WIDGET TYPE (HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/) IS REQUIRED.
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
 widget_id: my-widget-123
 headless: true
 weight: 10
