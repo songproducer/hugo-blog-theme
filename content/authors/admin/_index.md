@@ -17,9 +17,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/bitcoin_dj
-organizations:
-  - name: LCWA
-    url: https://lcwaparty.org.au/
+organizations: []
 email: leotreasure@gmail.com
 superuser: true
 status:
