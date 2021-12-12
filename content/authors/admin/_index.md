@@ -1,6 +1,7 @@
 ---
 title: Leo Treasure
 role: Tezos Baker
+avatar_filename: https://artbreeder.b-cdn.net/imgs/20785302e0d9dcb65441.jpeg
 bio: My research interests include language models, podcasts and DeFi.
 interests:
   - music
