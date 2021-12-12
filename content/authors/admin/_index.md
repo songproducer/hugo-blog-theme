@@ -1,8 +1,7 @@
 ---
 title: Leo Treasure
 role: Tezos Baker
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include language models, podcasts and DeFi.
 interests:
   - music
   - art
@@ -25,4 +24,4 @@ superuser: true
 status:
   icon: ☕️
 ---
-Actively participating in the Tezos ecosystem for two years. Advocate for using crypto currency, artificial intelligence and decentralisation.
+Actively participating in the Tezos ecosystem for two years. Advocate for using Tezos, artificial intelligence and decentralisation.
