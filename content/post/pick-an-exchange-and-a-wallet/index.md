@@ -6,7 +6,7 @@ summary: This 2 minute guide will get you started earning Money Every 3 Days wit
 draft: false
 featured: false
 image:
-  filename: choong-deng-xiang-tsvw8g7kbue-unsplash.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
   caption: 'Photo by <a
