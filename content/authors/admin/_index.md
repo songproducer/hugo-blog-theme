@@ -1,7 +1,7 @@
 ---
-title: Leo Treasure
+title: Money Every 3 Days
 role: Tezos Baker
-avatar_filename: leotreasure.jpeg
+avatar_filename: money-every-3-days-logo-transparent.png
 bio: My research interests include language models, podcasts and DeFi.
 interests:
   - music
