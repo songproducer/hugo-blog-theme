@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: money
+widget_id: home
 headless: true
 weight: 10
 active: true
